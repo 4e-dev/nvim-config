@@ -1,0 +1,33 @@
+# Lazy / plugin downloads
+lazy-lock.json
+plugin/
+
+# Neovim cache/state
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+Session.vim
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Treesitter compiled parsers
+parser/
+
+# Optional local settings
+.local.lua
+
+# NetRW history
+.netrwhist
+
+# Undo files
+undo/
+
+# Backup files
+backup/
+
+# Swap files
+swap/
