@@ -9,6 +9,7 @@ vim.opt.fileformats = { "unix", "dos" }
 vim.opt.hidden = true
 vim.opt.modelines = 0
 vim.opt.compatible = false
+vim.opt.signcolumn = "yes:1"
 
 -- UI / Display
 vim.opt.cursorline = true
@@ -23,7 +24,6 @@ vim.opt.showcmd = true
 vim.opt.showmode = true
 vim.opt.visualbell = false
 vim.opt.ttyfast = true
-vim.opt.guifont = "JetBrainsMono Nerd Font Mono:h12"
 
 -- Colors / Syntax
 vim.opt.syntax = "on"
