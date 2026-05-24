@@ -9,7 +9,8 @@ end, {
   desc = "Strip trailing whitespace",
 })
 
-local font_name = "JetBrainsMono Nerd Font Mono"
+--local font_name = "JetBrainsMono Nerd Font Mono"
+local font_name = "FiraMono Nerd Font Mono"
 local font_size = 16
 
 local function update_font()

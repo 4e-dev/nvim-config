@@ -28,7 +28,6 @@ vim.opt.ttyfast = true
 -- Colors / Syntax
 vim.opt.syntax = "on"
 vim.opt.background = "dark"
-vim.cmd("colorscheme default")
 
 -- Indentation
 vim.opt.expandtab = true
