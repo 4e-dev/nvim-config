@@ -19,13 +19,13 @@ vim.opt.wrap = false
 vim.opt.number = true
 vim.opt.relativenumber = true
 vim.opt.ruler = true
-vim.opt.scrolloff = 4
+vim.opt.scrolloff = 2
 vim.opt.showcmd = true
 vim.opt.showmode = true
 vim.opt.visualbell = false
 vim.opt.ttyfast = true
 
--- Colors / Syntax
+-- Colors / Syntax (activated under plugins/colorscheme)
 vim.opt.syntax = "on"
 vim.opt.background = "dark"
 
