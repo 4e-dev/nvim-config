@@ -28,6 +28,7 @@ vim.opt.ttyfast = true
 -- Colors / Syntax (activated under plugins/colorscheme)
 vim.opt.syntax = "on"
 vim.opt.background = "dark"
+--vim.cmd.colorscheme("retrobox")
 
 -- Indentation
 vim.opt.expandtab = true

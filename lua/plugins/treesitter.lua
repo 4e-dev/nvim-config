@@ -8,6 +8,7 @@ return {
         require("nvim-treesitter.configs").setup({
             ensure_installed = {
                 "c",
+                "cs",
                 "cpp",
                 "lua",
                 "vim",
